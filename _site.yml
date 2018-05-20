@@ -10,4 +10,4 @@ navbar:
     - text: "About Me"
       href: about.html
     - text: "Blog"
-      hre:  blog.html
+      href:  blog.html
