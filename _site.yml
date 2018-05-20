@@ -1,0 +1,11 @@
+# "YML" file that tells your website how to assemble itself
+
+name: "Drew's test Rmd-based site"
+output_dir: "."
+navbar:
+  title: "Test Rmd Website"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About Me"
+      href: about.html
